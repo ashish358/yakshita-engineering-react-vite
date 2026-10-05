@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<rect width="256" height="256" rx="40" fill="#f3f5f5"/>
+<path d="M46 112c28-62 118-76 166-25-39-16-79-11-105 13-21 19-34 43-39 73-10-19-17-39-22-61z" fill="#1b1c5b"/>
+<text x="78" y="181" font-family="Arial" font-size="72" font-weight="700" fill="#17175b">YE</text>
+<path d="M69 79c45-26 100-19 136 14" fill="none" stroke="#2e8bb4" stroke-width="8" stroke-linecap="round"/>
+</svg>
