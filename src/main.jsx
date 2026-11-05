@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 
 import { createRoot } from "react-dom/client";
-
+import { Analytics } from '@vercel/analytics/react';
 import {
 
   ArrowRight, BadgeCheck, ChevronRight, Factory,
@@ -1464,6 +1464,7 @@ function App() {
   <Capabilities/>
   <Contact/>
   <Testimonials/>
+   <Analytics />
 </main>
 
     <Footer/>
